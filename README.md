@@ -53,4 +53,4 @@ OUTPUT:
 
 <img width="725" height="506" alt="Image" src="https://github.com/user-attachments/assets/7697b365-2779-48d2-a576-e4c027801457" />
 <img width="665" height="605" alt="Image" src="https://github.com/user-attachments/assets/7a7ec5a1-9ca3-4dba-9295-2c78827a7854" />
-<img width="1366" height="666" alt="Image" src="https://github.com/user-attachments/assets/c64ab3c2-04f6-4a45-ba8c-fba2db26e5b6" />
+<img width="846" height="601" alt="Image" src="https://github.com/user-attachments/assets/d4040431-7c4b-44cd-9f46-49982e963f25" />
