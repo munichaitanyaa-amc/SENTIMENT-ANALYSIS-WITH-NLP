@@ -48,3 +48,8 @@ systems.
 One of the major advantages of sentiment analysis is that it saves time and effort by automating the analysis of large amounts of data.
 It also helps organizations make better decisions based on customer emotions and opinions. However, challenges such as sarcasm detection,
 language ambiguity, and context understanding still exist in sentiment analysis systems.
+
+OUTPUT:
+<img width="1366" height="666" alt="Image" src="https://github.com/user-attachments/assets/c64ab3c2-04f6-4a45-ba8c-fba2db26e5b6" />
+<img width="725" height="506" alt="Image" src="https://github.com/user-attachments/assets/7697b365-2779-48d2-a576-e4c027801457" />
+<img width="665" height="605" alt="Image" src="https://github.com/user-attachments/assets/7a7ec5a1-9ca3-4dba-9295-2c78827a7854" />
